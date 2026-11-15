@@ -168,7 +168,7 @@ img.custom-logo {
   transform: rotateY(-180deg);
 }
 .header-outter input.search-submit {
-  background: url(/wp-content/themes/e-storefront/assets/images/search.png) no-repeat scroll right 8px top 50% !important;
+  background: url(https:/wp-content/themes/e-storefront/assets/images/search.png) no-repeat scroll right 8px top 50% !important;
   background-color: var(--first-color) !important;
   text-align: center !important;
   position: absolute !important;
@@ -535,7 +535,7 @@ span.track-btn a {
 }
 .main-search-box button:after {
   content: "";
-  background: url(/wp-content/themes/e-storefront/assets/images/search.png) no-repeat scroll 100% 0px;
+  background: url(https:/wp-content/themes/e-storefront/assets/images/search.png) no-repeat scroll 100% 0px;
   position: absolute;
   left: 0px;
   right: 0px;
