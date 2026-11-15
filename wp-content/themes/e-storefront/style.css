@@ -199,7 +199,7 @@ a:focus {
   transform: rotateY(180deg);
 }
 .header-outter input.search-submit {
-  background: url(https://samueldiaz24.github.io/websamuel/wp-content/themes/e-storefront/assets/images/search.png) no-repeat scroll 8px !important;
+  background: url(/websamuel/wp-content/themes/e-storefront/assets/images/search.png) no-repeat scroll 8px !important;
   background-color: var(--first-color) !important;
   text-align: center !important;
   position: absolute !important;
@@ -709,7 +709,7 @@ span.track-btn a {
 }
 .main-search-box button:after {
   content: "";
-  background: url(https://samueldiaz24.github.io/websamuel/wp-content/themes/e-storefront/assets/images/search.png) no-repeat scroll 0 0px;
+  background: url(/websamuel/wp-content/themes/e-storefront/assets/images/search.png) no-repeat scroll 0 0px;
   position: absolute;
   right: 0px;
   left: 0px;
